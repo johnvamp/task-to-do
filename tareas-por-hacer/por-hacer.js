@@ -1,5 +1,4 @@
 const fs = require("fs");
-const { resolve } = require("path");
 let listadoPorHacer = [];
 
 const guardarDb = () => {
